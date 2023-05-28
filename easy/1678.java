@@ -3,6 +3,7 @@ class Solution {
     public String interpret(String str) {
 
         StringBuilder sb = new StringBuilder("");
+        System.out.println();
 
         for(int i = 0 ; i<str.length() ; i++){
 
