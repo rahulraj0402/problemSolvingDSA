@@ -5,6 +5,7 @@ class Solution {
          int n = s.length();
    int j = n/2;
    int count1 = 0, count2 = 0;
+   int y = 0;
 
    String vovels = "aeiouAEIOU";
 
